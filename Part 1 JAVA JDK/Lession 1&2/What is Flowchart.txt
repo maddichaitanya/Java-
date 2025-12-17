@@ -1,0 +1,16 @@
+1.What is Fowchart ?
+ 
+a) It's the Diagram to represent solutions of problem.
+   
+ They are represemt in the small parts and then are logically       arrange
+
+2).Fowchart and its components?
+  
+ a)Start/Exit
+ b)Input/Output
+ c)process
+ d)Desion
+ e)Arrows
+
+
+
